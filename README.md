@@ -1,38 +1,23 @@
 # 🛒 Amazon Clone
 
-A responsive front-end clone of the Amazon e-commerce website, developed using **HTML and CSS**. The project recreates the look and feel of Amazon's homepage, including navigation, product sections, promotional banners, and category layouts.
+A front-end **Amazon Clone** website created using HTML and CSS.  
+This project recreates the basic layout and visual appearance of an e-commerce website inspired by Amazon.
 
-## 📌 Project Overview
+## 🚀 Features
 
-This project was created to practice and demonstrate front-end web development concepts such as:
-
-- Responsive web page design
-- HTML5 semantic structure
-- CSS styling and layouts
-- Navigation bars and UI components
-- Product cards and category sections
-- Image-based promotional sections
-- Flexbox and modern CSS layouts
-
-The project focuses on recreating the visual structure and user interface of an e-commerce platform inspired by Amazon.
-
-## ✨ Features
-
-- 🏠 Amazon-inspired homepage
-- 🔍 Search bar and navigation interface
-- 🛍️ Product/category sections
-- 🖼️ Promotional hero banner
-- 📦 Multiple product showcase boxes
-- 📱 Responsive layout
-- 🎨 Amazon-inspired styling and color scheme
-- 🖥️ Clean and simple front-end structure
+- Amazon-inspired navigation bar
+- Search bar
+- Hero/banner section
+- Product and category sections
+- Multiple product cards
+- Amazon-style layout and styling
+- Image-based product sections
+- Responsive web design
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript** *(if applicable)*
-- **Git & GitHub**
+- HTML5
+- CSS3
 
 ## 📂 Project Structure
 
